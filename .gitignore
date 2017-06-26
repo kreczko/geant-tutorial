@@ -41,3 +41,19 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+
+# example binaries
+exampleB1
+exampleB2a
+exampleB2b
+exampleB3a
+exampleB3b
+exampleB4a
+exampleB4b
+exampleB4c
+exampleB4d
+exampleB5
+
+# ROOT
+*.root
+*.macro
